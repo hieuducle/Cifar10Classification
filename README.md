@@ -2,5 +2,7 @@
 <p align="center">
  <h1 align="center">Cifar10Classification</h1>
 </p>
+* Build a CNN from scratch </br>
+* Deploy with TorchServe
 
 
