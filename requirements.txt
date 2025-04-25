@@ -1,0 +1,5 @@
+torchserve
+torch-model-archiver
+torchvision
+opencv-python
+numpy 

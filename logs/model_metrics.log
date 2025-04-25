@@ -1,0 +1,14 @@
+2025-04-25T17:16:42,234 - HandlerTime.ms:475.96|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:61d39939-6b7d-4d8e-9eb1-ec16a6138d3f,timestamp:1745576202
+2025-04-25T17:16:42,235 - PredictionTime.ms:476.09|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:61d39939-6b7d-4d8e-9eb1-ec16a6138d3f,timestamp:1745576202
+2025-04-25T17:16:53,873 - HandlerTime.ms:25.68|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:4007527e-6fee-4e04-9b7d-a502bda90a76,timestamp:1745576213
+2025-04-25T17:16:53,873 - PredictionTime.ms:25.81|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:4007527e-6fee-4e04-9b7d-a502bda90a76,timestamp:1745576213
+2025-04-25T17:17:59,928 - HandlerTime.ms:37.1|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:0309cdb1-be8b-4f9e-876d-99f388eb1a25,timestamp:1745576279
+2025-04-25T17:17:59,929 - PredictionTime.ms:37.21|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:0309cdb1-be8b-4f9e-876d-99f388eb1a25,timestamp:1745576279
+2025-04-25T17:18:04,342 - HandlerTime.ms:20.38|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:21a2e992-e1f9-4179-96bd-d8b354d8ebd6,timestamp:1745576284
+2025-04-25T17:18:04,342 - PredictionTime.ms:20.49|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:21a2e992-e1f9-4179-96bd-d8b354d8ebd6,timestamp:1745576284
+2025-04-25T17:18:24,256 - HandlerTime.ms:32.89|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:c728c463-9b58-4c83-a61e-ab98d2e29d2c,timestamp:1745576304
+2025-04-25T17:18:24,256 - PredictionTime.ms:33.0|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:c728c463-9b58-4c83-a61e-ab98d2e29d2c,timestamp:1745576304
+2025-04-25T18:01:29,646 - HandlerTime.ms:157.77|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:b29c7c4f-3cd4-4947-9af4-52c50a99667b,timestamp:1745578889
+2025-04-25T18:01:29,646 - PredictionTime.ms:157.92|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:b29c7c4f-3cd4-4947-9af4-52c50a99667b,timestamp:1745578889
+2025-04-25T20:05:58,858 - HandlerTime.ms:390.88|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:122f8004-3b3e-492e-a936-fba510ecbcbc,timestamp:1745586358
+2025-04-25T20:05:58,859 - PredictionTime.ms:391.05|#ModelName:cifar10,Level:Model|#hostname:amin-GF63-Thin-9SCXR,requestID:122f8004-3b3e-492e-a936-fba510ecbcbc,timestamp:1745586358
